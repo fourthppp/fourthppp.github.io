@@ -37,24 +37,6 @@
                 />
   </url>
   <url>
-    <loc>https://fourthpp.com/en/paper_money/1948-1958/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fourthpp.com/zh-cn/paper_money/1948-1958/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="https://fourthpp.com/zh-hk/paper_money/1948-1958/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fourthpp.com/en/paper_money/1948-1958/"
-                />
-  </url>
-  <url>
     <loc>https://fourthpp.com/en/coin/</loc>
     <xhtml:link
                 rel="alternate"
@@ -109,6 +91,24 @@
                 />
   </url>
   <url>
+    <loc>https://fourthpp.com/en/paper_money/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/paper_money/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/paper_money/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/paper_money/"
+                />
+  </url>
+  <url>
     <loc>https://fourthpp.com/en/paper_money/pa6/</loc>
     <xhtml:link
                 rel="alternate"
@@ -142,42 +142,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fourthpp.com/en/coin/pe/"
-                />
-  </url>
-  <url>
-    <loc>https://fourthpp.com/en/paper_money/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fourthpp.com/zh-cn/paper_money/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="https://fourthpp.com/zh-hk/paper_money/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fourthpp.com/en/paper_money/"
-                />
-  </url>
-  <url>
-    <loc>https://fourthpp.com/en/paper_money/1952_rk/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://fourthpp.com/zh-cn/paper_money/1952_rk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-hk"
-                href="https://fourthpp.com/zh-hk/paper_money/1952_rk/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://fourthpp.com/en/paper_money/1952_rk/"
                 />
   </url>
   <url>
@@ -217,21 +181,21 @@
                 />
   </url>
   <url>
-    <loc>https://fourthpp.com/en/paper_money/p39/</loc>
+    <loc>https://fourthpp.com/en/paper_money/1937/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://fourthpp.com/zh-cn/paper_money/p39/"
+                href="https://fourthpp.com/zh-cn/paper_money/1937/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-hk"
-                href="https://fourthpp.com/zh-hk/paper_money/p39/"
+                href="https://fourthpp.com/zh-hk/paper_money/1937/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fourthpp.com/en/paper_money/p39/"
+                href="https://fourthpp.com/en/paper_money/1937/"
                 />
   </url>
   <url>
@@ -268,6 +232,60 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://fourthpp.com/en/antique/"
+                />
+  </url>
+  <url>
+    <loc>https://fourthpp.com/en/paper_money/1948-1958/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/paper_money/1948-1958/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/paper_money/1948-1958/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/paper_money/1948-1958/"
+                />
+  </url>
+  <url>
+    <loc>https://fourthpp.com/en/paper_money/1952_rk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/paper_money/1952_rk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/paper_money/1952_rk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/paper_money/1952_rk/"
+                />
+  </url>
+  <url>
+    <loc>https://fourthpp.com/en/paper_money/p39/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/paper_money/p39/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/paper_money/p39/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/paper_money/p39/"
                 />
   </url>
   <url>
