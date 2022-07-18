@@ -271,6 +271,24 @@
                 />
   </url>
   <url>
+    <loc>https://fourthpp.com/zh-cn/coin/km25b/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/coin/km25b/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/coin/km25b/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/coin/km25b/"
+                />
+  </url>
+  <url>
     <loc>https://fourthpp.com/zh-cn/paper_money/1952_rk/</loc>
     <xhtml:link
                 rel="alternate"
