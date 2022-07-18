@@ -200,6 +200,21 @@
   </url>
   <url>
     <loc>https://fourthpp.com/zh-hk/coin/aupe/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/coin/aupe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/coin/aupe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/coin/aupe/"
+                />
   </url>
   <url>
     <loc>https://fourthpp.com/zh-hk/painting/</loc>
