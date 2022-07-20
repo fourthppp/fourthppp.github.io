@@ -271,6 +271,24 @@
                 />
   </url>
   <url>
+    <loc>https://fourthpp.com/zh-cn/coin/mat/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/coin/mat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/coin/mat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/coin/mat/"
+                />
+  </url>
+  <url>
     <loc>https://fourthpp.com/zh-cn/paper_money/1948-1958/</loc>
     <xhtml:link
                 rel="alternate"
