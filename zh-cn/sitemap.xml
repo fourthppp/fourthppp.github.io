@@ -307,6 +307,24 @@
                 />
   </url>
   <url>
+    <loc>https://fourthpp.com/zh-cn/coin/km1718/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/coin/km1718/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/coin/km1718/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/coin/km1718/"
+                />
+  </url>
+  <url>
     <loc>https://fourthpp.com/zh-cn/coin/km25b/</loc>
     <xhtml:link
                 rel="alternate"
