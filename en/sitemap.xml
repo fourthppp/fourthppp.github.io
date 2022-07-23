@@ -415,6 +415,24 @@
                 />
   </url>
   <url>
+    <loc>https://fourthpp.com/en/coin/proof/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/coin/proof/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/coin/proof/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/coin/proof/"
+                />
+  </url>
+  <url>
     <loc>https://fourthpp.com/en/paper_money/p39/</loc>
     <xhtml:link
                 rel="alternate"
