@@ -397,6 +397,24 @@
                 />
   </url>
   <url>
+    <loc>https://fourthpp.com/en/coin/km36/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/coin/km36/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/coin/km36/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/coin/km36/"
+                />
+  </url>
+  <url>
     <loc>https://fourthpp.com/en/paper_money/p39/</loc>
     <xhtml:link
                 rel="alternate"
