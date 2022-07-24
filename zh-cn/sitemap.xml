@@ -271,6 +271,24 @@
                 />
   </url>
   <url>
+    <loc>https://fourthpp.com/zh-cn/paper_money/taylor/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://fourthpp.com/en/paper_money/taylor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hk"
+                href="https://fourthpp.com/zh-hk/paper_money/taylor/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://fourthpp.com/zh-cn/paper_money/taylor/"
+                />
+  </url>
+  <url>
     <loc>https://fourthpp.com/zh-cn/paper_money/p21/</loc>
     <xhtml:link
                 rel="alternate"
